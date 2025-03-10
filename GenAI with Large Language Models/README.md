@@ -1,5 +1,5 @@
 ![alt text](https://github.com/sobcza11/GenAI/blob/main/GenAI%20with%20Large%20Language%20Models/_support/aws_deeplearning.jpg)
-# Overview
+# OVERVIEW
 In Generative AI with Large Language Models (LLMs), the fundamentals of how generative AI works were learn, and how to deploy it in real-world applications.
 
 By taking this course, I learned to:
