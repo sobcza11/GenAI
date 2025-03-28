@@ -1,7 +1,11 @@
 ![alt text](https://raw.github.com/sobcza11/GenAI/main/Personal%20projects/_supporting/nash_photo2.jpg)
 
 # Projects
-Contained herein is a curated portfolio of my Generative AI work, where I will store for the data world. My learning will be gradual but consistent throughout my endevours in the data world. 
+This is a living archive of my Generative AI work — a curated portfolio where experimentation meets execution, and ideas evolve into tangible outcomes. Each project reflects not only what I’m building, but what I’m learning along the way.
+
+My journey in the data world is rooted in curiosity and driven by consistency. As I explore the capabilities of language models, retrieval-augmented generation, and intelligent agents, this space will grow — documenting the insights, breakthroughs, and even the occasional misstep that shape my path.
+
+Consider this both a record and a roadmap — an evolving showcase of how data and creativity intersect.. 
 
 # CONTENTS
 Here you will find the following folders & description of what is located in each:
