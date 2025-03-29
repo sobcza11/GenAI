@@ -7,7 +7,7 @@ My journey in the data world is rooted in <b>curiosity</b> and driven by <b>cons
 
 Consider this both a <b>record and a roadmap</b> — <b>an evolving showcase of how data and creativity intersect</b>.. 
 
-# CONTENTS
+# CONTENT
 Here you will find the following folders & description of what is located in each:
    * <b>Course Work</b>
      * <i>This folder contains <b>projects I completed during courses</b> where I learn GenAI</i>
