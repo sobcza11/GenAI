@@ -1,4 +1,4 @@
-# Professional Certificate - 13 courses | Total 
+# Professional Certificate - 16 courses + M | Total 
 
 1. Machine Learning with Python
 2. Introduction to Deep Learning & Neural Networks with Keras
@@ -13,3 +13,6 @@
 11. Generative AI Advance Fine-Tuning for LLMs
 12. Fundamentals of AI Agents Using RAG and LangChain
 13. Project: Generative AI Applications with RAG and LangChain
+14. Generative AI Advance Fine-Tuning for LLMs
+15. Fundamentals of AI Agents Using RAG and LangChain
+16. IBM Generative AI Engineering Professional Certificate
