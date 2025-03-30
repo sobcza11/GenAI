@@ -1,4 +1,4 @@
-# Professional Certificate - 16 courses | Total 
+# Professional Certificate - 16 courses 
 
 1. Machine Learning with Python
 2. Introduction to Deep Learning & Neural Networks with Keras
