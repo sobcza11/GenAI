@@ -1,4 +1,4 @@
-# IBM AI Engineering Professional Certificate | 13 Courses
+# IBM AI Engineering Professional Certificate | 16 Courses
 This [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) is ideal for data scientists, machine learning engineers, software engineers, and other technical specialists looking to get job-ready as an AI engineer.
 
 - Built, trained, and deployed advanced deep learning architectures, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), autoencoders, and generative AI models (e.g., large language models like GPT and BERT).
