@@ -1,3 +1,4 @@
+![alt text](https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo.png)
 # IBM AI Engineering Professional Certificate | 16 Courses
 This [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) is ideal for data scientists, machine learning engineers, software engineers, and other technical specialists looking to get job-ready as an AI engineer.
 
@@ -14,4 +15,4 @@ This [IBM AI Engineering Professional Certificate](https://www.coursera.org/prof
 - Gained practical, job-ready experience through hands-on labs and projects, showcasing deep learning capabilities and advanced model deployment.
 
 Please find my completed sections in the folder entitled <b>"Completions"</b>
-![alt text](https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo.png)
+
