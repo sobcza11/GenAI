@@ -4,7 +4,7 @@ This directory contains a single Jupyter Notebook demonstrating how to build a r
 
 ## Notebook Summary
 
-**🔍 `rag_paper_demo.ipynb`**  
+**🔍 `pdf_loader.ipynb`**  
 This notebook walks through the end-to-end pipeline of:
 - Ingesting a research paper PDF
 - Splitting it into manageable text chunks
