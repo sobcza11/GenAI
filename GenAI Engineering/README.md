@@ -53,9 +53,9 @@ All 16 certificates earned along the way are available in the [**Certificate**](
 
 ### 📁 Folders Overview
 
-- 🧾 `Notebooks` – Contains the hands-on project showcasing LangChain, RAG, Watsonx, and QA chatbot design
 - 🏅 `Certificate` – Official completion certificates from IBM and Coursera for each course
-
+- 🧾 `Notebooks` – Contains the hands-on project showcasing LangChain, RAG, Watsonx, and QA chatbot design
+- 📸 _supporting – Contains supporting assets such as images used in the README and other visuals
 ---
 
 ### 🛡️ Disclaimer
