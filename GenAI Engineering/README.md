@@ -39,7 +39,7 @@ I also learned how to create NLP pipelines and perform advanced tokenization usi
 
 ### 🔍 Applied GenAI with LangChain & RAG
 
-This journey culminated in a capstone project housed in the [**Notebooks**](./Notebooks) folder. Here, I designed and deployed a **Retrieval-Augmented Generation (RAG)** system using LangChain, IBM Watsonx, and a vector database to query complex PDFs through natural language—making academic research *searchable and explainable*.
+This journey culminated in a capstone project housed in the [**Notebooks**](https://github.com/sobcza11/GenAI/tree/main/GenAI%20Engineering/Notebooks) folder. Here, I designed and deployed a **Retrieval-Augmented Generation (RAG)** system using LangChain, IBM Watsonx, and a vector database to query complex PDFs through natural language—making academic research *searchable and explainable*.
 
 > A full PDF is downloaded, parsed, embedded, and queried through a chatbot interface—answering user questions in-context.
 
@@ -47,15 +47,16 @@ This journey culminated in a capstone project housed in the [**Notebooks**](./No
 
 ### 📜 Certificates
 
-All 16 certificates earned along the way are available in the [**Certificate**](./Certificate) folder, documenting each milestone in this progression.
+All 16 certificates earned along the way are available in the [**Certificates**](https://github.com/sobcza11/GenAI/tree/main/GenAI%20Engineering/Certificates) folder, documenting each milestone in this progression.
 
 ---
 
 ### 📁 Folders Overview
 
-- 🏅 `Certificate` | Official completion certificates from IBM and Coursera for each course
-- 🧾 `Notebooks`   | Contains the hands-on project showcasing LangChain, RAG, Watsonx, and QA chatbot design
-- 📸 `_supporting` | Contains supporting assets such as images used in the README and other visuals
+- 🏅 `Certificates` | Official completion certificates from IBM and Coursera for each course  
+- 🧾 `Notebooks`   | Contains the hands-on project showcasing LangChain, RAG, Watsonx, and QA chatbot design  
+- 📸 `_supporting` | Contains supporting assets such as images used in the README and other visuals  
+
 ---
 
 ### 🛡️ Disclaimer
@@ -65,4 +66,3 @@ This repository is intended for educational and portfolio purposes only. All thi
 ---
 
 Thanks for stopping by. I hope this inspires your own journey in AI.
-
