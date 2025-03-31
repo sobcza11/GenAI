@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo2.png?raw=true" 
-       alt="alt text" 
-       height="350" 
-       style="border: 2px solid #b8a898; border-radius: 6px;"/>
+  <table>
+    <tr>
+      <td style="border: 2px solid #b8a898; border-radius: 6px; padding: 4px;">
+        <img src="https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo2.png?raw=true" 
+             alt="alt text" 
+             height="350"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 # IBM AI Engineering Professional Certificate | 16 Courses
