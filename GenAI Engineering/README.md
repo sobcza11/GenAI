@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border: 2px solid #b8a898; border-radius: 6px; padding: 4px;">
+      <td style="border: 2px solid #800000; border-radius: 6px; padding: 4px;">
         <img src="https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo2.png?raw=true" 
              alt="alt text" 
              height="350"/>
