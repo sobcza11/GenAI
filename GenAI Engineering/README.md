@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo.png?raw=true" alt="alt text" height="350"/>
+  <img src="https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/_supporting/ibm_genai_photo2.png?raw=true" alt="alt text" height="350"/>
 </div>
 
 # IBM AI Engineering Professional Certificate | 16 Courses
