@@ -14,3 +14,6 @@ This notebook walks through the end-to-end pipeline of:
 
 Ideal for those exploring Retrieval-Augmented Generation (RAG) or integrating GenAI into document-based workflows.
 
+## Disclaimer
+This notebook was created for educational and portfolio purposes. It does not represent a production-ready implementation and is not affiliated with IBM. All API keys and credentials should be handled securely using environment variables or tools like getpass.
+
