@@ -3,7 +3,7 @@
 I am creating a GitHub section to store my Generative Artificial Intelligence ("GenAI") work from both Certificates & Personal projects.
 
 Please find below descriptions of the folders where you may find certain documents:
-- <b>GenAI with Large Language Models</b> | [Link](https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/Certificates/16.%20IBM%20Generative%20AI%20Engineering%20Professional%20Certificate.pdf)
+- <b>GenAI with Large Language Models</b> | [Link](https://github.com/sobcza11/GenAI/blob/main/GenAI%20with%20Large%20Language%20Models/Certificate/GenAI%20with%20Large%20Language%20Models.pdf)
 	- AWS & DeepLearning.AI 
 	- I <b>initiated my exploration of GenAI</b> with this course to establish a comprehensive macro-level understanding before delving into more intricate technical components. 
 - <b>IBM AI Engineering Professional Certificate</b> | [Link](https://github.com/sobcza11/GenAI/blob/main/GenAI%20Engineering/Certificates/16.%20IBM%20Generative%20AI%20Engineering%20Professional%20Certificate.pdf)
